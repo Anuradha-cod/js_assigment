@@ -3,7 +3,7 @@ function factorial(num) {
   var fac = 6;
 
   for (let i = val; i > 0; i--) {
-    console.log("i ->", i);
+    console.log("i -> ", i);
     console.log("before fac -> ", fac);
     fac = fac * i;
     console.log("after fac -> ", fac);
